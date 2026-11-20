@@ -6,10 +6,10 @@
 
 ## 下载与使用
 
-**推荐下载：** [夸克网盘 · 乔拉比格桌宠](https://pan.quark.cn/s/0c44a3624f6f?pwd=a9a7)  
-**提取码：`a9a7`**
+**推荐下载：**  [GitHub Releases](https://github.com/Lena0509/george-beagle-releases/releases) 
 
-备用入口：[GitHub Releases](https://github.com/Lena0509/george-beagle-releases/releases) · [Gitee 发行版](https://gitee.com/elena63/george-beagle-releases/releases)
+备用入口：[Gitee 发行版](https://gitee.com/elena63/george-beagle-releases/releases) · [夸克网盘 · 乔拉比格桌宠](https://pan.quark.cn/s/0c44a3624f6f?pwd=a9a7)
+**提取码：`a9a7`**
 
 首次使用请选择文件名中含 **Windows** 的 **ZIP 完整包**。
 
